@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "967721442026",
+    "firebase_url": "https://holafirebase-d61c0.firebaseio.com",
+    "project_id": "holafirebase-d61c0",
+    "storage_bucket": "holafirebase-d61c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967721442026:android:8b2836950baa806c",
+        "android_client_info": {
+          "package_name": "com.torres.alberto.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967721442026-mdmncitr0vof4rociuoiv7724mqcafb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torres.alberto.holafirebase",
+            "certificate_hash": "339878c8bbcb2976326b4181ce2da2976e1ed227"
+          }
+        },
+        {
+          "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX-y4WLB15IYIf8zSE59f8LqCCfMrQ10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967721442026:android:e6ff8b369e6b50e9",
+        "android_client_info": {
+          "package_name": "com.torres.alberto.menudecomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967721442026-tl8md45b9t4u36seh395b6gjg5kb84lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torres.alberto.menudecomida",
+            "certificate_hash": "339878c8bbcb2976326b4181ce2da2976e1ed227"
+          }
+        },
+        {
+          "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX-y4WLB15IYIf8zSE59f8LqCCfMrQ10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967721442026:android:44818a91522b8609",
+        "android_client_info": {
+          "package_name": "com.torres.alberto.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967721442026-eetpamlk2o3c79k6ik3s8jjm3ms7pss3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torres.alberto.misfotografias",
+            "certificate_hash": "339878c8bbcb2976326b4181ce2da2976e1ed227"
+          }
+        },
+        {
+          "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX-y4WLB15IYIf8zSE59f8LqCCfMrQ10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967721442026:android:162a737a876cf38b",
+        "android_client_info": {
+          "package_name": "com.torres.alberto.ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967721442026-f9gpvv6rdmj9svvgfk9m7ava0ccshe6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torres.alberto.ofertas",
+            "certificate_hash": "339878c8bbcb2976326b4181ce2da2976e1ed227"
+          }
+        },
+        {
+          "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX-y4WLB15IYIf8zSE59f8LqCCfMrQ10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967721442026-t2aa56ai2qk7mpunrivla3cgnc4nc7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mis fotografias</string>
+    <string name="main.label.gallery">Galería</string>
+    <string name="main.label.camera">Cámara</string>
+    <string name="main.label.upload">Subir</string>
+    <string name="main.message.question.upload">¿Desea subir esta imagen?</string>
+</resources>
